@@ -1,3 +1,5 @@
+# PROJECT ON HOLD - WILL RETURN TO IT ONCE I FIND INSPIRATION
+
 # osu-pp-machine-learning
 A quick AI tool that will estimate the pp awarded by a play given a set of initial parameters.
 
